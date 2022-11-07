@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  7 09:35:49 2022
 
-@author: Xing Wei
+@author: Xing Wei and Marcela A. Johnson
 
 # Version_031321: select the top wavelengths with custom distance apart
 """
